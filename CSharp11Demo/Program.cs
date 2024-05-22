@@ -1,5 +1,5 @@
 ﻿Required.Demo.Run();
 
-RawStringLiterals.Demo.Run();
+//RawStringLiterals.Demo.Run();
 
-ListPatterns.Demo.Run();
+//ListPatterns.Demo.Run();
